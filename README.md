@@ -1,4 +1,5 @@
 # CNN圖形辨識
+* Yann LeCun 被譽為 Deep Learning 的三巨頭之一。他的 CNN (Convolutional Neural Networks) 是讓 Neural Network 重新受到重視的主因之一。
 
 # 目錄
 * 準備資料
